@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.MobileAsset.MobileAccessoryUpdate.A2084.EA</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6</string>
+	<key>CFBundleName</key>
+	<string>A2084-EA-FirmwareUpdate-23.620086002000000.18</string>
+	<key>CFBundleShortVersionString</key>
+	<string>23.620086002000000.18</string>
+	<key>CFBundleVersion</key>
+	<string>23.620086002000000.18</string>
+	<key>MobileAssetProperties</key>
+	<dict>
+		<key>Build</key>
+		<string>2D15</string>
+		<key>DeviceName</key>
+		<string>Bluetooth Headset</string>
+		<key>FirmwareBundle</key>
+		<string>Firmware.acsw</string>
+		<key>FirmwareVersionMajor</key>
+		<integer>23</integer>
+		<key>FirmwareVersionMinor</key>
+		<integer>620086002000000</integer>
+		<key>FirmwareVersionRelease</key>
+		<integer>18</integer>
+		<key>FormatVersion</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
